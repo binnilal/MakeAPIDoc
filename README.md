@@ -14,7 +14,7 @@ A package for generating Rest API documentation of all APIs which called by usin
 
 Drag & drop MakeAPIDocumentation.framework file to the Frameworks, Libraries, and Embedded Content and select Embed as Embed & Sign
 
-https://user-images.githubusercontent.com/11155344/183894335-67509f7a-0d6e-446c-bdcf-c629eeb7aae0.MP4
+
 
 ### Usage
 
