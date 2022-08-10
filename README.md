@@ -16,7 +16,7 @@ Drag & drop MakeAPIDocumentation.framework file to the Frameworks, Libraries, an
 
 https://user-images.githubusercontent.com/11155344/183896280-6a84a704-0475-4e0c-94fa-49a797f10d2a.mp4
 
-![IMG_93CA0AAE2D39-1](https://user-images.githubusercontent.com/11155344/183899611-91538d72-b92e-4f7a-99c3-d7cda99469c6.jpeg)
+![IMG_93CA0AAE2D39-1](https://user-images.githubusercontent.com/11155344/183899916-98bd3a4e-d461-47d7-bd50-f8e002b8067e.jpeg)
 
 ### Usage
 
