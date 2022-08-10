@@ -1,0 +1,11 @@
+framework module MakeAPIDocumentation {
+  umbrella header "MakeAPIDocumentation.h"
+
+  export *
+  module * { export * }
+}
+
+module MakeAPIDocumentation.Swift {
+    header "MakeAPIDocumentation-Swift.h"
+    requires objc
+}
