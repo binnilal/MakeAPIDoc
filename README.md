@@ -12,6 +12,8 @@ A package for generating Rest API documentation of all APIs which called by usin
 
 ### Installation
 
+Drag & drop MakeAPIDocumentation.framework file to the Frameworks, Libraries, and Embedded Content and select Embed as Embed & Sign
+
 ### Usage
 
 Add setUp in AppDelegate class
